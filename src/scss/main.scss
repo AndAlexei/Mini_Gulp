@@ -1,0 +1,17 @@
+@import 'helpers';
+
+
+
+.content {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    &__text {
+        color: $blue-color;
+        font-size: 20px;
+        span {
+            color: $primary-color;
+            font-weight: 700;
+        }
+    }
+}

@@ -1,0 +1,23 @@
+$red: red;
+$primary-color: #000;
+$blue-color: rgb(7, 25, 129);
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+margin: 0 auto;
+font-size: 55px;
+color: $red;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-transform: uppercase;
+}
